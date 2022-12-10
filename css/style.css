@@ -11094,7 +11094,7 @@ a.text-dark:focus {
   border-radius: 30px!important;
 }
 
-#loader {
+/* #loader {
   border: 5px solid #f3f3f3;
   border-radius: 50%;
   border-top: 5px solid #444444;
@@ -11116,4 +11116,4 @@ a.text-dark:focus {
   left: 0;
   right: 0;
   margin: auto;
-}
+} */
